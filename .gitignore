@@ -22,12 +22,12 @@ chrome-user-data
 .vscode
 *.swp
 *.swo
-
+.env
 fly.toml
 Dockerfile
 .dockerignore
 requests/
-
+mongo.js
 package-lock.json
 
 packages/react-devtools-core/dist
